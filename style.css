@@ -25,7 +25,7 @@ body {
 }
 
 .active-student-card {
-    background: linear-gradient(180deg, #004ad7 0%, #00287d 100%);
+    background: linear-gradient(180deg, #d70000 0%, #00287d 100%);
     border: 2px solid #00e3fd;
     box-shadow: 0 0 40px rgba(0, 227, 253, 0.4);
 }
@@ -37,5 +37,5 @@ body {
 
 /* Base style for the arena canvas wheel */
 #wheel {
-    background: conic-gradient(from 0deg, #181b25 0deg, #1c1f29 45deg, #181b25 90deg, #1c1f29 135deg, #181b25 180deg, #1c1f29 225deg, #181b25 270deg, #1c1f29 315deg);
+    background: conic-gradient(from 0deg, #171e38 0deg, #1c1f29 45deg, #181b25 90deg, #1c1f29 135deg, #181b25 180deg, #1c1f29 225deg, #181b25 270deg, #1c1f29 315deg);
 }
