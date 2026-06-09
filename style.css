@@ -25,7 +25,7 @@ body {
 }
 
 .active-student-card {
-    background: linear-gradient(180deg, #d70000 0%, #00287d 100%);
+    background: linear-gradient(180deg, #910606 0%, #00287d 100%);
     border: 2px solid #00e3fd;
     box-shadow: 0 0 40px rgba(0, 227, 253, 0.4);
 }
