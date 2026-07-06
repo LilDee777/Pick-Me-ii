@@ -87,3 +87,34 @@ button:focus-visible {
     outline: 2px solid rgba(0, 227, 253, 0.8);
     outline-offset: 3px;
 }
+
+@media (max-width: 767px) {
+    body {
+        background-position: top;
+    }
+
+    header {
+        position: fixed;
+        width: 100%;
+    }
+
+    .metallic-edge {
+        padding: 0;
+    }
+
+    main {
+        padding-top: 1rem;
+    }
+
+    .custom-scrollbar {
+        scrollbar-width: thin;
+    }
+
+    #rosterList {
+        max-height: 360px;
+    }
+
+    #pulseBar {
+        min-height: 14px;
+    }
+}
